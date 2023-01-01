@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc2e203c-90a1-425d-9a17-ca6dc370c29b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Clients/Client3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clients/Client4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Clients/Client5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PeerToPeerFileSharingSystem/ClientFiles/Client1/rfc10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PeerToPeerFileSharingSystem/ClientFiles/Client1/rfc3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PeerToPeerFileSharingSystem/ClientFiles/Client1/rfc4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PeerToPeerFileSharingSystem/ClientFiles/Client1/rfc5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PeerToPeerFileSharingSystem/ClientFiles/Client2/rfc10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PeerToPeerFileSharingSystem/ClientFiles/Client2/rfc11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PeerToPeerFileSharingSystem/ClientFiles/Client2/rfc12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PeerToPeerFileSharingSystem/ClientFiles/Client2/rfc6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PeerToPeerFileSharingSystem/ClientFiles/Client2/rfc7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PeerToPeerFileSharingSystem/ClientHelpers/ClientToClientResponseMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PeerToPeerFileSharingSystem/ClientHelpers/ClientToClientResponseMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClientFiles/Client1/rfc10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClientFiles/Client1/rfc3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClientFiles/Client2/rfc3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClientFiles/Client1/rfc4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClientFiles/Client2/rfc4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClientFiles/Client1/rfc5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClientFiles/Client3/rfc5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClientFiles/Client2/rfc10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClientFiles/Client4/rfc10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClientFiles/Client2/rfc11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClientFiles/Client5/rfc11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClientFiles/Client2/rfc12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClientFiles/Client5/rfc12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClientFiles/Client2/rfc6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClientFiles/Client3/rfc6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClientFiles/Client2/rfc7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClientFiles/Client4/rfc7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClientHelpers/ClientToClientResponseMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClientHelpers/ClientToClientResponseMessage.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PeerToPeerNetwork$Server.ic" NAME="Server Coverage Results" MODIFIED="1584858384892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Server.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="126445328">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="RFC1" value="5" />
+          <entry key="Readme" value="1" />
+          <entry key="java" value="111" />
+          <entry key="txt" value="52" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="111" />
+          <entry key="PLAIN_TEXT" value="58" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Readme" value="199" />
+          <entry key="dummy" value="18" />
+          <entry key="java" value="17559" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="17559" />
+          <entry key="PLAIN_TEXT" value="217" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PeerToPeerFileSharingSystem" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Server.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Server/Server.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="41" column="35" lean-forward="true" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#406#419#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Client1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Clients/Client1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Client2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Clients/Client2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-545">
+              <caret line="115" column="38" lean-forward="true" selection-start-line="115" selection-start-column="38" selection-end-line="115" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Client3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Clients/Client3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="160" lean-forward="true" selection-start-line="160" selection-end-line="160" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Client4.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Clients/Client4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1682">
+              <caret line="156" column="28" selection-start-line="156" selection-start-column="28" selection-end-line="156" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Client5.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Clients/Client5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="101">
+              <caret line="156" column="28" selection-start-line="156" selection-start-column="28" selection-end-line="156" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Connected</find>
+      <find>rfc</find>
+      <find>peerMap</find>
+      <find>out</find>
+      <find>reader</find>
+      <find>inputByte</find>
+      <find>input</find>
+      <find>rfc.setRFCName</find>
+      <find>REMOVE</find>
+      <find>System.out.print</find>
+      <find>Client1</find>
+      <find>out2</find>
+      <find>ipAddress</find>
+      <find>client1</find>
+      <find>enter</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\jajubina\Desktop\PeerToPeerFileSharingSystem\src</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Server/Main.java" />
+        <option value="$PROJECT_DIR$/src/ClientFiles/RFC1" />
+        <option value="$PROJECT_DIR$/src/POJO/Peer.java" />
+        <option value="$PROJECT_DIR$/src/Client/ClientMessages.java" />
+        <option value="$PROJECT_DIR$/src/Client/ClientRequestMessages.java" />
+        <option value="$PROJECT_DIR$/src/Client/ClientToServerMessages.java" />
+        <option value="$PROJECT_DIR$/src/Client/ClientToServerRequestMessages.java" />
+        <option value="$PROJECT_DIR$/src/Client/Client.java" />
+        <option value="$PROJECT_DIR$/src/Client/Client1.java" />
+        <option value="$PROJECT_DIR$/src/Client/Client2.java" />
+        <option value="$PROJECT_DIR$/src/Client/ClientToClientResponseMessage.java" />
+        <option value="$PROJECT_DIR$/src/Client/ClientToClientRequestMessages.java" />
+        <option value="$PROJECT_DIR$/src/Client/ClientHelper.java" />
+        <option value="$PROJECT_DIR$/src/ClientFiles/Client2/rfc11.txt" />
+        <option value="$PROJECT_DIR$/src/ClientFiles/Client1/rfc5.txt" />
+        <option value="$PROJECT_DIR$/src/Server/Server.java" />
+        <option value="$PROJECT_DIR$/src/POJO/RFC.java" />
+        <option value="$PROJECT_DIR$/src/ClientHelpers/ClientToServerRequestMessages.java" />
+        <option value="$PROJECT_DIR$/src/Server/ServerMessages.java" />
+        <option value="$PROJECT_DIR$/src/Server/ServerHelpers.java" />
+        <option value="$PROJECT_DIR$/src/AppConstants/RFCTitle.java" />
+        <option value="$PROJECT_DIR$/src/Server/ClientThread.java" />
+        <option value="$PROJECT_DIR$/Readme" />
+        <option value="$PROJECT_DIR$/src/ClientHelpers/ClientHelper.java" />
+        <option value="$PROJECT_DIR$/src/Clients/Client1.java" />
+        <option value="$PROJECT_DIR$/src/Clients/Client2.java" />
+        <option value="$PROJECT_DIR$/src/ClientHelpers/ClientToClientResponseMessage.java" />
+        <option value="$PROJECT_DIR$/src/Clients/Client5.java" />
+        <option value="$PROJECT_DIR$/src/Clients/Client4.java" />
+        <option value="$PROJECT_DIR$/src/Clients/Client3.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="52" />
+    <option name="y" value="15" />
+    <option name="width" value="1400" />
+    <option name="height" value="778" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PeerToPeerNetwork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PeerToPeerNetwork" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PeerToPeerNetwork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PeerToPeerNetwork" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PeerToPeerNetwork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PeerToPeerNetwork" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="AppConstants" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PeerToPeerNetwork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PeerToPeerNetwork" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ClientFiles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PeerToPeerNetwork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PeerToPeerNetwork" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ClientFiles" type="462c0819:PsiDirectoryNode" />
+              <item name="Client1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PeerToPeerNetwork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PeerToPeerNetwork" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ClientFiles" type="462c0819:PsiDirectoryNode" />
+              <item name="Client2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PeerToPeerNetwork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PeerToPeerNetwork" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ClientFiles" type="462c0819:PsiDirectoryNode" />
+              <item name="Client3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PeerToPeerNetwork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PeerToPeerNetwork" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ClientFiles" type="462c0819:PsiDirectoryNode" />
+              <item name="Client4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PeerToPeerNetwork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PeerToPeerNetwork" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ClientFiles" type="462c0819:PsiDirectoryNode" />
+              <item name="Client5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PeerToPeerNetwork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PeerToPeerNetwork" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Clients" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PeerToPeerNetwork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PeerToPeerNetwork" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Clients" type="462c0819:PsiDirectoryNode" />
+              <item name="Client1.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="PeerToPeerNetwork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PeerToPeerNetwork" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Clients" type="462c0819:PsiDirectoryNode" />
+              <item name="Client3.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="PeerToPeerNetwork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PeerToPeerNetwork" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Clients" type="462c0819:PsiDirectoryNode" />
+              <item name="Client4.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="PeerToPeerNetwork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PeerToPeerNetwork" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Clients" type="462c0819:PsiDirectoryNode" />
+              <item name="Client5.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="PeerToPeerNetwork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PeerToPeerNetwork" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="POJO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PeerToPeerNetwork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="peertopeerfilesharingsystem" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="build.&#9;ACTION&#9;GenerateAntBuild&#10;generateOK&#9;PSI&#9;JAVA://Server.ServerMessages#generateOKForList&#10;generate&#9;PSI&#9;JAVA://Server.ServerMessages#generateDatabase&#10;System.out.print&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543784214574" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\anton\Documents\PeerToPeerNetwork\src\ClientFiles\Client2" />
+      <recent name="C:\Users\anton\Documents\PeerToPeerNetwork\src\ClientFiles\Client3" />
+      <recent name="C:\Users\anton\Documents\PeerToPeerNetwork\src\ClientFiles\Client4" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\anton\Documents\PeerToPeerNetwork\src\ClientFiles\Client5" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Client4">
+    <configuration name="Client1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Clients.Client1" />
+      <module name="PeerToPeerFileSharingSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Clients.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Client2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Clients.Client2" />
+      <module name="PeerToPeerFileSharingSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Clients.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Client3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Clients.Client3" />
+      <module name="PeerToPeerFileSharingSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Clients.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Client4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Clients.Client4" />
+      <module name="PeerToPeerFileSharingSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Clients.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Client5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Clients.Client5" />
+      <module name="PeerToPeerFileSharingSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Clients.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Client1 (1)" />
+      <item itemvalue="Application.Client2 (1)" />
+      <item itemvalue="Application.Client5" />
+      <item itemvalue="Application.Client3" />
+      <item itemvalue="Application.Client4" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client4" />
+        <item itemvalue="Application.Client5" />
+        <item itemvalue="Application.Client3" />
+        <item itemvalue="Application.Client2 (1)" />
+        <item itemvalue="Application.Client1 (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc2e203c-90a1-425d-9a17-ca6dc370c29b" name="Default Changelist" comment="" />
+      <created>1542346759317</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542346759317</updated>
+      <workItem from="1542346764984" duration="135856000" />
+      <workItem from="1543704949308" duration="6461000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="142317000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="694" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32907802" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32733813" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33992806" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32928804" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32733813" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Designer" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989429" visible="true" weight="0.23220065" />
+      <window_info id="Structure" order="1" sideWeight="0.5010571" side_tool="true" weight="0.22483222" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24966443" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="6" sideWeight="0.5010571" side_tool="true" weight="0.22483222" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="SBT Console" order="9" weight="0.32907802" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="bottom" id="SBT Console" order="9" weight="0.32907802" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33992806" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.24966443" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="6" sideWeight="0.5010571" side_tool="true" weight="0.22483222" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32733813" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32733813" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="9" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989429" visible="true" weight="0.23220065" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32907802" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Structure" order="1" sideWeight="0.5010571" side_tool="true" weight="0.22483222" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32928804" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ClientHelpers/ClientToServerRequestMessages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="26" column="54" selection-start-line="26" selection-start-column="54" selection-end-line="26" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Server/ClientThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Server/ServerHelpers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="43" column="58" selection-start-line="43" selection-start-column="58" selection-end-line="43" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Clients/Client2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1547">
+          <caret line="104" column="63" lean-forward="true" selection-start-line="104" selection-start-column="63" selection-end-line="104" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/DataOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="346" selection-start-line="346" selection-end-line="346" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClientFiles/RFC1" />
+    <entry file="file://$PROJECT_DIR$/src/ClientFiles/Client1/RFC1" />
+    <entry file="file://$PROJECT_DIR$/src/Client/ClientMessages.java" />
+    <entry file="file://$PROJECT_DIR$/src/ClientFiles/Client5/rfc28.txt" />
+    <entry file="file://$PROJECT_DIR$/src/ClientFiles/Client5/rfc27.txt" />
+    <entry file="file://$PROJECT_DIR$/src/ClientFiles/Client5/rfc26.txt" />
+    <entry file="file://$PROJECT_DIR$/src/ClientFiles/Client5/rfc25.txt" />
+    <entry file="file://$PROJECT_DIR$/src/ClientFiles/Client5/rfc24.txt" />
+    <entry file="file://$PROJECT_DIR$/src/ClientFiles/Client5/rfc23.txt" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/BufferedReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="323" selection-start-line="323" selection-end-line="323" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Client/Client1.java" />
+    <entry file="file://$PROJECT_DIR$/src/Client/Client2.java" />
+    <entry file="file://$PROJECT_DIR$/src/ClientFiles/Client1/rfc6.txt" />
+    <entry file="file://$PROJECT_DIR$/src/ClientFiles/Client3/rfc10.txt" />
+    <entry file="file://$PROJECT_DIR$/src/ClientFiles/Client1/rfc1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClientFiles/Client1/rfc2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClientFiles/Client2/rfc3.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClientFiles/Client2/rfc4.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClientFiles/Client3/rfc6.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClientFiles/Client4/rfc7.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClientFiles/Client4/rfc10.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClientFiles/Client2/rfc11.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClientFiles/Client2/rfc12.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClientFiles/Client3/rfc5.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2199">
+          <caret line="949" lean-forward="true" selection-start-line="949" selection-end-line="949" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClientFiles/Client2/rfc3.txt" />
+    <entry file="file://$PROJECT_DIR$/src/Client/Client.java" />
+    <entry file="file://$PROJECT_DIR$/src/POJO/RFC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppConstants/RFCTitle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Readme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="94" selection-start-line="4" selection-start-column="94" selection-end-line="4" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClientHelpers/ClientToServerRequestMessages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="26" column="54" selection-start-line="26" selection-start-column="54" selection-end-line="26" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Server/ServerHelpers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="43" column="58" selection-start-line="43" selection-start-column="58" selection-end-line="43" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClientHelpers/ClientToClientRequestMessages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/POJO/Peer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Server/ClientThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClientHelpers/ClientHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="38" column="60" selection-start-line="38" selection-start-column="60" selection-end-line="38" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClientFiles/Client5/Client1/rfc1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClientFiles/Client5/rfc12.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClientFiles/Client5/rfc11.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Server/ServerMessages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="68" column="26" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClientHelpers/ClientToClientResponseMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Clients/Client1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Server/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="41" column="35" lean-forward="true" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#406#419#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Clients/Client2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-545">
+          <caret line="115" column="38" lean-forward="true" selection-start-line="115" selection-start-column="38" selection-end-line="115" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Clients/Client3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="160" lean-forward="true" selection-start-line="160" selection-end-line="160" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Clients/Client5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="156" column="28" selection-start-line="156" selection-start-column="28" selection-end-line="156" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Clients/Client4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1682">
+          <caret line="156" column="28" selection-start-line="156" selection-start-column="28" selection-end-line="156" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
